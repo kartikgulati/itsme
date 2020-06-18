@@ -1,0 +1,101 @@
+baseurl      = "localhost"
+title        = "My Blog"
+languageCode = "en-us"
+theme        = "hugo-theme-hello-friend"
+paginate     = 10
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Subtitle for home
+  homeSubtitle = "Just a human who love Tech."
+
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+
+    # [params.portrait]
+    path = "/img/image.jpg"
+    alt = "Portrait"
+
+  # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/KartikGulati14"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:kartikgulati19@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/kartikgulati"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/kartik-gulati-a5636b17a/"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "https://www.instagram.com/welcome.2.gulati.city/"
+  
+[[params.social]]
+    name = "facebook"
+    url  = "https://www.facebook.com/kartik.gulati.524"
+
+    [[params.social]]
+    name = "telegram"
+    url  = "https://t.me/welcom2gulaticity"
+
+
+
+[languages]
+  [languages.en]
+    title = "Hello! I'am Kartik Gulati"
+    subtitle = "Just a human who love Tech."
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">Kartik Gulati</a>'
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "$ cd /Welcome2GulatiCity/"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+  [menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = ">About me"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "contact"
+    name       = ">Contact"
+    url        = "contact/"
+    
+     [[menu.main]]
+    identifier = "post"
+    name       = ">Posts"
+    url        = "post/"
+
+    

@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://kartikgulati.github.io/itsme/"
 title        = "My Blog"
 publishDir = "docs"
 languageCode = "en-us"

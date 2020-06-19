@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hello! I&#39;am Kartik Gulati</title>
-    <link>localhost/</link>
+    <link>https://kartikgulati.github.io/itsme/</link>
     <description>Recent content on Hello! I&#39;am Kartik Gulati</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kartik Gulati&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 18 Jun 2020 21:55:31 +0530</lastBuildDate>
     
-	<atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kartikgulati.github.io/itsme/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test Post</title>
-      <link>localhost/post/first-post/</link>
+      <link>https://kartikgulati.github.io/itsme/post/first-post/</link>
       <pubDate>Thu, 18 Jun 2020 21:55:31 +0530</pubDate>
       
-      <guid>localhost/post/first-post/</guid>
+      <guid>https://kartikgulati.github.io/itsme/post/first-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>$Contact</title>
-      <link>localhost/contact/</link>
+      <link>https://kartikgulati.github.io/itsme/contact/</link>
       <pubDate>Thu, 18 Jun 2020 21:31:09 +0530</pubDate>
       
-      <guid>localhost/contact/</guid>
+      <guid>https://kartikgulati.github.io/itsme/contact/</guid>
       <description>I would be available on Telegram almost all time except my sleep xD. Best would be ping me there for anything. If you don’t have Telegram, no problemo, you can reach me out on Instagram. For any formal correspondence, Email which has become too formal: [kartikgulati19@gmail.com](mailto: kartikgulati19@gmail.com)</description>
     </item>
     
     <item>
       <title>$whoami</title>
-      <link>localhost/about/</link>
+      <link>https://kartikgulati.github.io/itsme/about/</link>
       <pubDate>Thu, 18 Jun 2020 20:59:51 +0530</pubDate>
       
-      <guid>localhost/about/</guid>
+      <guid>https://kartikgulati.github.io/itsme/about/</guid>
       <description>I am Kartik Gulati, a 22 year old Web Developer, Blogger, Teacher and Tech influencer, popularly known around the internet world as Wecome2GulatiCity. If you ﬁnd some­one with the user­name Wecome2GulatiCityon any platform, you can be mostly sure its me.
 If you still want to know more about me then download my CV .</description>
     </item>

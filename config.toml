@@ -78,6 +78,7 @@ paginate     = 10
     [languages.en.params.logo]
       logoText = "$ cd /Welcome2GulatiCity/"
       logoHomeLink = "https://kartikgulati.github.io/itsme/"
+      url = "https://kartikgulati.github.io/itsme/"
     # or
     #
     # path = "/img/your-example-logo.svg"

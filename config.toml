@@ -1,5 +1,6 @@
 baseurl      = "localhost"
 title        = "My Blog"
+publishDir = "docs"
 languageCode = "en-us"
 theme        = "hugo-theme-hello-friend"
 paginate     = 10

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>localhost/</loc>
+    <lastmod>2020-06-18T21:55:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/post/</loc>
+    <lastmod>2020-06-18T21:55:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/post/first-post/</loc>
+    <lastmod>2020-06-18T21:55:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/contact/</loc>
+    <lastmod>2020-06-18T21:31:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/about/</loc>
+    <lastmod>2020-06-18T20:59:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/img/image.jpg/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost/portrait/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost/series/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost/tags/</loc>
+  </url>
+  
+</urlset>

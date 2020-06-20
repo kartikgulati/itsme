@@ -8,5 +8,5 @@ draft: false
 
  If you ﬁnd some­one with the user­name ```Wecome2GulatiCity```on any platform, you can be mostly sure its me.
 
- If you still want to know more about me then download my [CV](https://www.google.com) .
+ If you still want to know more about me then download my [CV](https://drive.google.com/drive/folders/1enQ9PNANjNckyNBBs-R7r5EoU_-cBGaI?usp=sharing) .
 

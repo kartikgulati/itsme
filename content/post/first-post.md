@@ -7,7 +7,7 @@ type:
 - posts
 author: kartik Gulati 
 ---
-### ```TechOutputs``` is a technological blogging website, which provides daily tech updates, technological news, and a plethora of new inventions related to the tech world. Here you can also find the reviews of smartphones, smart tablets, laptops, and computer systems and hardware.
+### TechOutputs is a technological blogging website, which provides daily tech updates, technological news, and a plethora of new inventions related to the tech world. Here you can also find the reviews of smartphones, smart tablets, laptops, and computer systems and hardware.
 
 I post regular content on ```TechOutputs```, so that you are always updated about what is going on in Tech.
 

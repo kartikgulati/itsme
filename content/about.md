@@ -4,7 +4,7 @@ date: 2020-06-18T20:59:51+05:30
 draft: false
 ---
 
-#### I am Kartik Gulati, a 24 year old Web Developer, Blogger, Teacher and Tech influencer, popularly known around the internet world as Wecome2GulatiCity.
+#### I am Kartik Gulati, a Web Developer, Blogger, Teacher and Tech influencer, popularly known around the internet world as Wecome2GulatiCity.
 
  If you ﬁnd some­one with the user­name ```Wecome2GulatiCity```on any platform, you can be mostly sure its me.
 
